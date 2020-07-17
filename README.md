@@ -12,7 +12,7 @@ sudo apt-get install git
 
 Clone the repo
 
-git clone https://github.com/admiral-puri/Steganography.git
+git clone https://github.com/Rico1102/Steganography.git
 
 Open the directory
 
